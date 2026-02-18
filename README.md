@@ -100,39 +100,6 @@ I love taking ideas from **scratch to production** and making AI systems actuall
 
 ---
 
-## 💼 Experience
-
-### 💡 Junior AI/ML Engineer – Cognisys AI  
-*Aug 2025 – Feb 2026 • Hyderabad (On-site)*  
-
-- Built deep learning models for:
-  - **Kidney stone detection** from medical images  
-  - **Vehicle near-crash detection**  
-  - **DDoS attack detection**
-- Implemented **image-processing pipelines** (dehazing, denoising, super-resolution).
-- Architected **Career Copilot**, an AI-driven resume builder with:
-  - Next.js frontend + ML/LLM backend + MongoDB
-  - Design for **1,000+ concurrent users**
-- Integrated **LLM-based content generation** for resumes & summaries.
-- Co-delivered **advanced prompt engineering training** to Microsoft employees with the CEO.
-- Built **YOLO-based CV systems** optimized for real-time deployment.
-- Managed **end-to-end ML pipelines** and optimized **latency & throughput** on AWS / Streamlit Cloud.
-
----
-
-### 📚 AI & ML Engineer Intern – Incline Inventions  
-*May 2025 – Aug 2025 • Hyderabad (On-site)*  
-
-- Developed **10+ ML/DL models** for real-world datasets.
-- Contributed to:
-  - **4 Conference Papers**
-  - **2 Scopus Papers**
-  - **6+ SCI / other papers**
-- Created **15+ explanation videos** for clients & internal teams.
-- Built a **Speech Analysis Assistant** evaluating **15+ metrics** (fluency, filler words, clarity, pace, grammar, etc.).
-- Supported AI training modules for partner institutes.
-
----
 
 ## 🚀 Highlight Projects
 
@@ -140,7 +107,7 @@ I love taking ideas from **scratch to production** and making AI systems actuall
 
 ### 🧾 Career Copilot – AI Resume Builder  
 *Aug 2025 – Feb 2026*  
-🔗 **Live/Repo:** `[LINK]`  
+🔗 **Live/Repo:** `https://resume-builder-mocha-six.vercel.app/`  
 
 - AI-driven resume builder built with **Next.js, MongoDB, Vercel**.
 - Handles **~1,000 concurrent users** with low latency.
@@ -149,64 +116,6 @@ I love taking ideas from **scratch to production** and making AI systems actuall
 - Includes **encrypted storage & secure auth**.
 
 ---
-
-### 🗣️ Speech Analysis Assistant  
-*Jul 2025 – Aug 2025*  
-🔗 **Live/Repo:** `[LINK]`  
-
-- Analyzes speech on **15+ metrics** (fluency, filler words, clarity, pace, grammar, etc.).
-- Provides **actionable insights** to improve communication.
-- Built with **Python, NLP, Streamlit**, and visualization.
-
----
-
-### 🧘‍♂️ OfficeZenith – Workplace Wellness Assistant  
-*Jul 2025 – Aug 2025*  
-🔗 **Live/Repo:** `[LINK]`  
-
-- Django-based wellness assistant:
-  - Water reminders, screen breaks, exercise, meditation & custom alerts.
-- Backend models + DB logging + simple, clean UI.
-
----
-
-### 🥤 YOLOv8 Beverage Detection App  
-*May 2025 – Jun 2025*  
-🔗 **Live/Repo:** `[LINK]`  
-
-- Detects beverages (**Pepsi, Coca-Cola, Mirinda, Mountain Dew**) using **YOLOv8**.
-- Shows **nutritional facts** & **WHO sugar limit** checks with health tips.
-- Deployed on **Streamlit Cloud**, supports **model upload/download**.
-
----
-
-## 🎓 Education
-
-- **B.Tech – Computer Science (AI & ML)**  
-  Malla Reddy College of Engineering and Technology  
-  *Nov 2021 – Apr 2025* • **CGPA:** 8.57/10  
-
-- **Intermediate (XII)** – SriGayatri Junior College  
-  Telangana Board of Intermediate Education  
-  *Jun 2019 – Oct 2021* • **95.6%**
-
----
-
-## 🏅 Certifications & Achievements
-
-- **Salesforce Developer Virtual Internship** (May 2024 – Jun 2024)  
-  - Apex Specialist, Process Automation Specialist, Developer Super Set  
-
-- **Smart India Hackathon – Internal Hackathon** (Aug 2023 – Sep 2023)  
-  - Project on **student dropout analysis** for school education  
-
-- **Research Contributions**  
-  - 4+ Conference Papers  
-  - 2 Scopus Papers  
-  - 6+ SCI/other papers  
-
----
-
 ## 📊 GitHub Fun Zone 😄
 
 <p align="center">
