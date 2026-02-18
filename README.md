@@ -131,7 +131,7 @@ I love taking ideas from **scratch to production** and making AI systems actuall
 ## 📫 Connect with Me
 
 - 📧 [letsmail.akashgoud@gmail.com](mailto:letsmail.akashgoud@gmail.com)  
-- 🔗 [linkedin.com/in/akashgoud](https://www.linkedin.com/in/akashgoud)  
+- 🔗 [linkedin.com/in/akashgoud](https://www.linkedin.com/in/akash-goud-7a3b62318)  
 - 💻 [github.com/akashgoud2121](https://github.com/akashgoud2121)  
 
 ---
