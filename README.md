@@ -112,7 +112,7 @@ I love taking ideas from **scratch to production** and making AI systems actuall
 - Includes **encrypted storage & secure auth**.
 
 ---
-## 📊 GitHub Fun Zone 😄
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashgoud2121&show_icons=true&theme=tokyonight" alt="Akash's GitHub Stats" />
