@@ -8,7 +8,7 @@
   <a href="mailto:letsmail.akashgoud@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/akashgoud" target="_blank">
+  <a href="https://www.linkedin.com/in/akash-goud-7a3b62318" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/akashgoud2121" target="_blank">
