@@ -99,10 +99,7 @@ I love taking ideas from **scratch to production** and making AI systems actuall
 
 ---
 
-
 ## 🚀 Highlight Projects
-
-> 🔗 Replace the `[LINK]` placeholders with your actual repo/live URLs.
 
 ### 🧾 Career Copilot – AI Resume Builder  
 *Aug 2025 – Feb 2026*  
