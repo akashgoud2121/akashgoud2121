@@ -103,7 +103,7 @@ I love taking ideas from **scratch to production** and making AI systems actuall
 
 ### 🧾 Career Copilot – AI Resume Builder  
 *Aug 2025 – Feb 2026*  
-🔗 **Live/Repo:** `https://resume-builder-mocha-six.vercel.app/`  
+🔗 **Live/Repo:** `https://www.careercopilot.cognisysai.com/`  
 
 - AI-driven resume builder built with **Next.js, MongoDB, Vercel**.
 - Handles **~1,000 concurrent users** with low latency.
